@@ -1,35 +1,42 @@
+# # streamlit==1.31.0
+# # langchain==0.1.5
+# # langchain-openai==0.0.5
+# # langchain-community==0.0.17
+# # openai==1.11.0
+# # pypdf2==3.0.1
+# # faiss-cpu==1.12.0
+# # pandas==2.1.4
+# # python-dotenv==1.0.0
+# # matplotlib==3.8.2
+
+# # streamlit==1.31.0
+# # pypdf2==3.0.1
+# # python-dotenv==1.0.0
+# # pandas==2.1.4
+
 # streamlit==1.31.0
-# langchain==0.1.5
-# langchain-openai==0.0.5
-# langchain-community==0.0.17
-# openai==1.11.0
+# pymupdf==1.22.3     # fitz / PyMuPDF for PDF parsing
 # pypdf2==3.0.1
-# faiss-cpu==1.12.0
-# pandas==2.1.4
 # python-dotenv==1.0.0
+# pandas==2.1.4
 # matplotlib==3.8.2
+# # Optional - only needed when you buy OpenAI key
+# openai==1.11.0
 
 # streamlit==1.31.0
-# pypdf2==3.0.1
-# python-dotenv==1.0.0
-# pandas==2.1.4
+# pdfplumber
+# fpdf
+# matplotlib
+# python-dotenv
 
-streamlit==1.31.0
-pymupdf==1.22.3     # fitz / PyMuPDF for PDF parsing
-pypdf2==3.0.1
-python-dotenv==1.0.0
-pandas==2.1.4
-matplotlib==3.8.2
-# Optional - only needed when you buy OpenAI key
-openai==1.11.0
-
-streamlit==1.31.0
-pdfplumber
-fpdf
-matplotlib
-python-dotenv
+# streamlit
+# pdfplumber
+# # scikit-learn
+# joblib
 
 streamlit
+matplotlib
+python-dotenv
+openai
 pdfplumber
-# scikit-learn
-joblib
+fpdf
