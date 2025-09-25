@@ -1,0 +1,5 @@
+/.env
+/.venv
+/aap.py
+/venv
+/__pycache__
